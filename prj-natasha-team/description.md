@@ -41,7 +41,7 @@ neuronet -down-> [real data]
 td -up-> [study samples] 
 @enduml
 ```
-![shema](https://www.dropbox.com/s/8pwvqmqk71nh44f/hw01-schema-gen.png?dl=0)
+![shema](https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/hw01-schema-gen.png)
 
 Inside the "neuronet" cloud:
 
@@ -67,7 +67,7 @@ oc -down-> eb
 
 @enduml
 ```
-![img](https://www.dropbox.com/s/m5xg37a5o8q4szs/hw01-qqq.png?dl=0)
+![img](https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/hw01-qqq.png)
 
 ### Animal migration exploring
 The traditional methods require  <sup>2</sup> placing a transmitter or an old-fashioned id ring or nfc-tag on (or in) an animal - it takes a lot of effort, time and money. The result is unstable as a tagged animal may not survive the migration and all will be in vain.
@@ -86,7 +86,8 @@ Several sourses of images:
 All images have to be layer-stacked, georectified and when covering the same spatial subset have been co-registered to each other.
 
 ### Satellite images
-A satellite image consists of collection of pixels arranged in matrix form i.e. rows and column. Each pixel can be represented by a vector of the size of number of bands. In case of multispectral data, there are 3 or 4 bands corresponding to each pixel. Satellite captures the data of area covered by them in form of reflectance values which are then converted into pixel values based on certain well established computation. These images are captured by various remote sensing satellites. Satellite images are having significant information with respect to natural objects. These images are used for various applications for civilian sector.
+A satellite image consists of collection of pixels arranged in matrix form i.e. rows and column. Each pixel can be represented by a vector of the size of number of bands. In case of multispectral data, there are 3 or 4 bands corresponding to each pixel. Satellite captures the data of area covered by them in form of reflectance values which are then converted into pixel values based on certain well established computation. These images are captured by various remote sensing satellites. Satellite images are having significant information with respect to natural objects. These images are used for various applications for civilian sector.
+
 Satellite images can be bought from some imagery provider like DigitalGlobe or Orbital Insight. 
 
 Over the next 18 months, companies dealing in satellite imagery plan to place several dozen new satellites in orbit. By the middle of next year, many of those same companies expect to achieve daily “refresh rates”—new imagery of the same parts of the planet—at least once every 24 hours. Humans will soon be able to see huge swaths of the planet change daily.
