@@ -3,6 +3,8 @@
 
 by (Kostya, Timur, NatashaL, NatashaTs, NatashaKh)
 
+![img](prj-natasha-team/blob/deep_space_duck_by_nekodemonstar.jpg)
+
 <img src="https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/deep_space_duck_by_nekodemonstar.jpg" width="80">
 
 
