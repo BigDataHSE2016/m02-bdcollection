@@ -32,6 +32,9 @@ Birds migration automatic recognition from satellite images using machine learni
 
 #HSLIDE
 # What else can we do?
+- Recognise fish migration
+- Recognise hoofed animals migration
+- Track refugees and illegal immigrants movements
 
 #HSLIDE
 ![img6](prj-natasha-team/blob/deep_space_duck_by_nekodemonstar.jpg)
