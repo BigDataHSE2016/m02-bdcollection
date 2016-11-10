@@ -5,13 +5,11 @@ by (Kostya, Timur, NatashaL, NatashaTs, NatashaKh)
 
 ![img](prj-natasha-team/blob/deep_space_duck_by_nekodemonstar.jpg)
 
-<img src="https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/deep_space_duck_by_nekodemonstar.jpg" width="80">
-
 
 #HSLIDE
 # What do we do?
 Birds migration automatic recognition from satellite images using machine learning tools.
-<img src="https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/satellite_duck_map.png" width="250">
+![img](prj-natasha-team/blob/satellite_duck_map.png)
 
 #HSLIDE
 # What problems do we solve?
@@ -19,19 +17,18 @@ Birds migration automatic recognition from satellite images using machine learni
 - Reduse costs on birds migration tracking
 - Improve researches quality by providing a larger amount of data
 
-<img src="https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/satellite_duck_770.jpg" width="250">
-
-
-#HSLIDE
-# How do we do it?
-![img](https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/hw01-schema-gen.png)
+![img](prj-natasha-team/blob/satellite_duck_770.jpg)
 
 #HSLIDE
 # How do we do it?
-![img](https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/hw01-qqq.png)
+![img](prj-natasha-team/blob/hw01-schema-gen.png)
+
+#HSLIDE
+# How do we do it?
+![img](prj-natasha-team/blob/hw01-qqq.png)
 
 #HSLIDE
 # What else can we do?
 
 #HSLIDE
-![img](https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/deep_space_duck_by_nekodemonstar.jpg)
+![img](prj-natasha-team/blob/deep_space_duck_by_nekodemonstar.jpg)
