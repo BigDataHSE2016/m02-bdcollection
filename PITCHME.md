@@ -32,7 +32,6 @@ Birds migration automatic recognition from satellite images using machine learni
 
 #HSLIDE
 # The data
-Several sourses of images:
 - Satellite images
 - Drone images
 - Plane images
