@@ -3,12 +3,10 @@
 
 ## The Idea
 Object recognition from satellite images is a very important application for various purposes. Objects can be recognized based on certain features and then applying some algorithm to extract those objects. Basically object recognition is a classification problem.
-We'd like to make a service that recognises some living objects in satellite images using machine learning. 
+We'd like to make a service that recognises some living objects in satellite images using machine learning.
 The service can be he helpful in solving the following tasks:
 - Animal (birds, fish, etc.) migration exploring
 - Refugees and illegal immigrants movements tracking
-
-
 
 ### Schema
 ```
@@ -38,10 +36,10 @@ pi -down-> neuronet
 cust -down-> neuronet
 neuronet -down-> [real data]
 [study samples] -up-> neuronet
-td -up-> [study samples] 
+td -up-> [study samples]
 @enduml
 ```
-![shema](https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/hw01-schema-gen.png)
+![shema](https://raw.githubusercontent.com/BigDataHSE2016/m02-bdcollection/master/prj-natasha-team/blob/hw01-schema-gen.png)
 
 Inside the "neuronet" cloud:
 
@@ -67,7 +65,7 @@ oc -down-> eb
 
 @enduml
 ```
-![img](https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/hw01-qqq.png)
+![img](https://raw.githubusercontent.com/BigDataHSE2016/m02-bdcollection/master/prj-natasha-team/blob/hw01-qqq.png)
 
 ### Animal migration exploring
 The traditional methods require  <sup>2</sup> placing a transmitter or an old-fashioned id ring or nfc-tag on (or in) an animal - it takes a lot of effort, time and money. The result is unstable as a tagged animal may not survive the migration and all will be in vain.
@@ -88,21 +86,37 @@ All images have to be layer-stacked, georectified and when covering the same spa
 ### Satellite images
 A satellite image consists of collection of pixels arranged in matrix form i.e. rows and column. Each pixel can be represented by a vector of the size of number of bands. In case of multispectral data, there are 3 or 4 bands corresponding to each pixel. Satellite captures the data of area covered by them in form of reflectance values which are then converted into pixel values based on certain well established computation. These images are captured by various remote sensing satellites. Satellite images are having significant information with respect to natural objects. These images are used for various applications for civilian sector.
 
-Satellite images can be bought from some imagery provider like DigitalGlobe or Orbital Insight. 
+Satellite images can be bought from some imagery provider like DigitalGlobe or Orbital Insight.
 
 Over the next 18 months, companies dealing in satellite imagery plan to place several dozen new satellites in orbit. By the middle of next year, many of those same companies expect to achieve daily “refresh rates”—new imagery of the same parts of the planet—at least once every 24 hours. Humans will soon be able to see huge swaths of the planet change daily.
 
-### Other types of images 
+### Other types of images
 
-Other types of images can also be used to get more information about sertain objects. 
+Other types of images can also be used to get more information about sertain objects.
 Pros:
 - custom perspective
 - can observe a certain area with a longer period of time
 
-Cons: 
-- have to clear and classify them 
-- the classifier has to be trained separately 
+Cons:
+- have to clear and classify them
+- the classifier has to be trained separately
 
+## Business model
+### Mission
+_duck and cover_ provides a service that helps ornithologists and ecologists to get a better data on animal migrations.
+
+### Canvas
+Title | Content
+--- | ---
+Partners | Scientists, Universities, SciLabs in big companies, Green movements members
+Activities | Data Source Integration, Deploying the changes, Customers Attraction, PR activities, GR activities, HR, taxation
+Resources | IT Staff, DataScientists,
+Offerings | API (subscription), "box service", support (subscription), consulting, limited free version
+Benefits | Free some time in field for scientist, get mode accurate date, get more data for less money
+Customer Relationships | Automated services, Communities, Universities, Professors, Students
+Channels | Website, Social media,  Universities Channels
+Cost structure | Salaries and trainings, Marketing/advertising,  IT outsourcing,  Claim fixes,  Office maintenance, taxes
+Revenue streams | Usage fee, Subscription Fees,  Fundation events
 
 --------
 
