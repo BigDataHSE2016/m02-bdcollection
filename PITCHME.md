@@ -61,7 +61,7 @@ Smart Devices -> Internet of Things
 - Anonymization/pseudonymization/de-identification
 
 #HSLIDE
-**IoT Privacy: specific challenges tactic**
+**IoT Privacy: specific challenges tactics**
 - Conduct a privacy and/or security risk assessment.
 - Test security measures before launching products.
 - Incorporate the use of smart defaults
