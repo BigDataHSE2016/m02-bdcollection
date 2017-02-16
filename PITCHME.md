@@ -4,7 +4,7 @@
 by Natalia Khapaeva
 
 #HSLIDE
-# Smart Devices -> Internet of Things
+## Smart Devices -> Internet of Things
 
 ![img2](https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/hype_cycle.jpg?raw=true)
 
@@ -15,7 +15,7 @@ by Natalia Khapaeva
 - the potential economic impact of IoT by 2025: $2.7-6.2 trillion
 
 #HSLIDE
-# Security and Privacy
+## Security and Privacy
 - **Security** - protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide
 - **Privacy** - the quality or state of being apart from company or observation; freedom from unauthorized intrusion
 
@@ -26,25 +26,25 @@ by Natalia Khapaeva
 - enterprise risks: spying and direct harm
 
 #HSLIDE
-# 3 domains of IoT Security
+## 3 domains of IoT Security
 ![img3](https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/domains.png?raw=true)
 
 #HSLIDE
-# IoT Sensing Domain
+### IoT Sensing Domain
 ![img4](https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/sence.png?raw=true)
 
 #HSLIDE
-# IoT Fog Domain
+## IoT Fog Domain
 - Location
 - Mobility
 - Lower Computing Capacity
 
 #HSLIDE
-# IoT Cloud Domain
+## IoT Cloud Domain
 ![img3](https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/cl.png?raw=true)
 
 #HSLIDE
-# Main IoT security challenges
+### Main IoT security challenges
 - Multiple Technologies
 - Multiple Verticals
 - Scalability
@@ -55,14 +55,14 @@ by Natalia Khapaeva
 - Delay-Sensitive Service
 
 #HSLIDE
-# IoT Privacy: general tactics
+## IoT Privacy: general tactics
 - Data minimization
 - Encryption
 - Transparency
 - Anonymization/pseudonymization/de-identification
 
 #HSLIDE
-# IoT Privacy: specific challenges tactics
+### IoT Privacy: specific challenges tactics
 - Conduct a privacy and/or security risk assessment.
 - Test security measures before launching products.
 - Incorporate the use of smart defaults
