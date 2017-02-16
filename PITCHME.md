@@ -26,7 +26,7 @@ by Natalia Khapaeva
 - enterprise risks: spying and direct harm
 
 #HSLIDE
-## 3 domains of IoT Security
+3 domains of IoT Security
 ![img3](https://github.com/BigDataHSE2016/m02-bdcollection/blob/master/prj-natasha-team/blob/domains.png?raw=true)
 
 #HSLIDE
